@@ -13,7 +13,7 @@ unsafe = true
 
 [params]
 logo = "images/logo.png"
-logo_width = "300px"
+logo_width = "10px"
 description = "This is meta description"
 author = "Themefisher"
 currency = "$"
